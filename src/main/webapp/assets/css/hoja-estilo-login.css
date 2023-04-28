@@ -1,0 +1,21 @@
+/* 
+    Created on : 12/09/2022, 16:23:22
+    Author     : Jhonatan Jose Acalón Ajanel <jacalon-2021048@kinal.edu.gt>
+*/
+.contenedor-login{
+
+    padding: 15px;
+    border-radius: 32px;
+    box-shadow: 15px 10px 0px 5px #00000033;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.formulario{
+    width: 1500px;
+}

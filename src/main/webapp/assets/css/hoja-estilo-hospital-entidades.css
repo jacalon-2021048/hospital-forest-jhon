@@ -1,0 +1,27 @@
+/* 
+    Created on : 29/08/2022, 19:19:24
+    Author     : Jhonatan Jose Acalón Ajanel <jacalon-2021048@kinal.edu.gt>
+*/
+header{
+    background-color:#06973e;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+#btn-agregar{
+    background-color: #148955;
+}
+
+#cabecera-tabla{
+    background-color: #9fc70f;
+    text-align: center;
+}
+
+#elementos-tabla{
+    background-color: #76C210;
+}
+
+.contenido-tabla{
+    background-color: #78ad91;
+}
